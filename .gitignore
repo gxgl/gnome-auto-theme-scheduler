@@ -1,0 +1,6 @@
+# Extension artifacts
+/*.shell-extension.zip
+
+# Build outputs
+/locale/
+/schemas/gschemas.compiled

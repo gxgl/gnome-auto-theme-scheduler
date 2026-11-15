@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Theme Scheduler 1.0\n"
+"PO-Revision-Date: 2026-11-16 00:00+0000\n"
+"Last-Translator: Auto Theme Scheduler contributors\n"
+"Language-Team: Romanian\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Schedule"
+msgstr "Program"
+
+msgid "Theme schedule"
+msgstr "Programul temei"
+
+msgid "Times use your computer’s local clock and the 24-hour format."
+msgstr "Orele folosesc ceasul local al calculatorului și formatul de 24 de ore."
+
+msgid "Light theme starts"
+msgstr "Începutul temei luminoase"
+
+msgid "Dark theme starts"
+msgstr "Începutul temei întunecate"
+
+msgid "Changes are automatic"
+msgstr "Modificările sunt automate"
+
+msgid "The current theme is updated as soon as you change either time."
+msgstr "Tema curentă este actualizată imediat ce modificați oricare dintre ore."
+
+msgid "Manual changes are kept"
+msgstr "Modificările manuale sunt păstrate"
+
+msgid "If you switch the style manually, it stays until the next scheduled time."
+msgstr "Dacă schimbați stilul manual, acesta rămâne activ până la următoarea oră programată."
+
+msgid "Legacy applications"
+msgstr "Aplicații vechi"
+
+msgid "Dark theme for GTK3 applications"
+msgstr "Temă întunecată pentru aplicațiile GTK3"
+
+msgid "Use Adwaita-dark for GTK3 applications while the dark style is active and restore the previous theme afterwards."
+msgstr "Folosește Adwaita-dark pentru aplicațiile GTK3 cât timp stilul întunecat este activ și restaurează apoi tema anterioară."
+
+msgid "About"
+msgstr "Despre"
+
+msgid "Source code"
+msgstr "Cod sursă"
+
+msgid "Credits"
+msgstr "Mulțumiri"
+
+msgid "This extension combines and modernizes the following projects."
+msgstr "Această extensie combină și modernizează următoarele proiecte."

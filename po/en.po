@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Theme Scheduler 1.0\n"
+"PO-Revision-Date: 2026-11-16 00:00+0000\n"
+"Last-Translator: Auto Theme Scheduler contributors\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Schedule"
+msgstr "Schedule"
+
+msgid "Theme schedule"
+msgstr "Theme schedule"
+
+msgid "Times use your computer’s local clock and the 24-hour format."
+msgstr "Times use your computer’s local clock and the 24-hour format."
+
+msgid "Light theme starts"
+msgstr "Light theme starts"
+
+msgid "Dark theme starts"
+msgstr "Dark theme starts"
+
+msgid "Changes are automatic"
+msgstr "Changes are automatic"
+
+msgid "The current theme is updated as soon as you change either time."
+msgstr "The current theme is updated as soon as you change either time."
+
+msgid "Manual changes are kept"
+msgstr "Manual changes are kept"
+
+msgid "If you switch the style manually, it stays until the next scheduled time."
+msgstr "If you switch the style manually, it stays until the next scheduled time."
+
+msgid "Legacy applications"
+msgstr "Legacy applications"
+
+msgid "Dark theme for GTK3 applications"
+msgstr "Dark theme for GTK3 applications"
+
+msgid "Use Adwaita-dark for GTK3 applications while the dark style is active and restore the previous theme afterwards."
+msgstr "Use Adwaita-dark for GTK3 applications while the dark style is active and restore the previous theme afterwards."
+
+msgid "About"
+msgstr "About"
+
+msgid "Source code"
+msgstr "Source code"
+
+msgid "Credits"
+msgstr "Credits"
+
+msgid "This extension combines and modernizes the following projects."
+msgstr "This extension combines and modernizes the following projects."

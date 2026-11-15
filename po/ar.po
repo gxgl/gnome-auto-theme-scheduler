@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Theme Scheduler 1.0\n"
+"PO-Revision-Date: 2026-11-16 00:00+0000\n"
+"Last-Translator: Auto Theme Scheduler contributors\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Schedule"
+msgstr "الجدول"
+
+msgid "Theme schedule"
+msgstr "جدول السمة"
+
+msgid "Times use your computer’s local clock and the 24-hour format."
+msgstr "تستخدم الأوقات ساعة حاسوبك المحلية وتنسيق 24 ساعة."
+
+msgid "Light theme starts"
+msgstr "بدء السمة الفاتحة"
+
+msgid "Dark theme starts"
+msgstr "بدء السمة الداكنة"
+
+msgid "Changes are automatic"
+msgstr "التغييرات تلقائية"
+
+msgid "The current theme is updated as soon as you change either time."
+msgstr "تُحدَّث السمة الحالية فور تغيير أي من الوقتين."
+
+msgid "Manual changes are kept"
+msgstr "يتم الاحتفاظ بالتغييرات اليدوية"
+
+msgid "If you switch the style manually, it stays until the next scheduled time."
+msgstr "إذا بدّلت النمط يدويًا، فسيبقى حتى الموعد المجدول التالي."
+
+msgid "Legacy applications"
+msgstr "التطبيقات القديمة"
+
+msgid "Dark theme for GTK3 applications"
+msgstr "سمة داكنة لتطبيقات GTK3"
+
+msgid "Use Adwaita-dark for GTK3 applications while the dark style is active and restore the previous theme afterwards."
+msgstr "استخدام Adwaita-dark لتطبيقات GTK3 أثناء تفعيل النمط الداكن، ثم استعادة السمة السابقة بعد ذلك."
+
+msgid "About"
+msgstr "حول"
+
+msgid "Source code"
+msgstr "الشفرة المصدرية"
+
+msgid "Credits"
+msgstr "الشكر والتقدير"
+
+msgid "This extension combines and modernizes the following projects."
+msgstr "تجمع هذه الإضافة المشاريع التالية وتحدّثها."

@@ -1,0 +1,10 @@
+{
+  "name": "Auto Theme Scheduler",
+  "description": "Automatically switch between GNOME's light and dark styles at your chosen times, and keep legacy GTK3 applications in sync with the dark style.",
+  "uuid": "auto-theme-scheduler@gxgl",
+  "gettext-domain": "auto-theme-scheduler@gxgl",
+  "settings-schema": "org.gnome.shell.extensions.auto-theme-scheduler",
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
+  "version-name": "1.0",
+  "url": "https://github.com/gxgl/gnome-auto-theme-scheduler"
+}

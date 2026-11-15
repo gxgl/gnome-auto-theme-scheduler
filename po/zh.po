@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Theme Scheduler 1.0\n"
+"PO-Revision-Date: 2026-11-16 00:00+0000\n"
+"Last-Translator: Auto Theme Scheduler contributors\n"
+"Language-Team: Chinese\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Schedule"
+msgstr "计划"
+
+msgid "Theme schedule"
+msgstr "主题计划"
+
+msgid "Times use your computer’s local clock and the 24-hour format."
+msgstr "时间使用计算机的本地时钟和 24 小时制。"
+
+msgid "Light theme starts"
+msgstr "浅色主题开始时间"
+
+msgid "Dark theme starts"
+msgstr "深色主题开始时间"
+
+msgid "Changes are automatic"
+msgstr "更改会自动生效"
+
+msgid "The current theme is updated as soon as you change either time."
+msgstr "更改任一时间后，当前主题会立即更新。"
+
+msgid "Manual changes are kept"
+msgstr "保留手动更改"
+
+msgid "If you switch the style manually, it stays until the next scheduled time."
+msgstr "如果您手动切换样式，该样式会保持到下一个计划时间。"
+
+msgid "Legacy applications"
+msgstr "旧版应用程序"
+
+msgid "Dark theme for GTK3 applications"
+msgstr "GTK3 应用程序使用深色主题"
+
+msgid "Use Adwaita-dark for GTK3 applications while the dark style is active and restore the previous theme afterwards."
+msgstr "在深色样式启用期间为 GTK3 应用程序使用 Adwaita-dark，之后恢复之前的主题。"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Source code"
+msgstr "源代码"
+
+msgid "Credits"
+msgstr "致谢"
+
+msgid "This extension combines and modernizes the following projects."
+msgstr "此扩展整合并更新了以下项目。"

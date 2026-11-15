@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Theme Scheduler 1.0\n"
+"PO-Revision-Date: 2026-11-16 00:00+0000\n"
+"Last-Translator: Auto Theme Scheduler contributors\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Schedule"
+msgstr "Расписание"
+
+msgid "Theme schedule"
+msgstr "Расписание темы"
+
+msgid "Times use your computer’s local clock and the 24-hour format."
+msgstr "Время указывается по местным часам компьютера в 24-часовом формате."
+
+msgid "Light theme starts"
+msgstr "Начало светлой темы"
+
+msgid "Dark theme starts"
+msgstr "Начало тёмной темы"
+
+msgid "Changes are automatic"
+msgstr "Изменения применяются автоматически"
+
+msgid "The current theme is updated as soon as you change either time."
+msgstr "Текущая тема обновляется сразу после изменения любого времени."
+
+msgid "Manual changes are kept"
+msgstr "Ручные изменения сохраняются"
+
+msgid "If you switch the style manually, it stays until the next scheduled time."
+msgstr "Если вы переключите стиль вручную, он сохранится до следующего запланированного времени."
+
+msgid "Legacy applications"
+msgstr "Устаревшие приложения"
+
+msgid "Dark theme for GTK3 applications"
+msgstr "Тёмная тема для приложений GTK3"
+
+msgid "Use Adwaita-dark for GTK3 applications while the dark style is active and restore the previous theme afterwards."
+msgstr "Использовать Adwaita-dark для приложений GTK3, пока активен тёмный стиль, а затем восстановить прежнюю тему."
+
+msgid "About"
+msgstr "О приложении"
+
+msgid "Source code"
+msgstr "Исходный код"
+
+msgid "Credits"
+msgstr "Благодарности"
+
+msgid "This extension combines and modernizes the following projects."
+msgstr "Это расширение объединяет и обновляет следующие проекты."

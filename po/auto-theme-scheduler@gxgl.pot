@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Theme Scheduler 1.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Theme schedule"
+msgstr ""
+
+msgid "Times use your computer’s local clock and the 24-hour format."
+msgstr ""
+
+msgid "Light theme starts"
+msgstr ""
+
+msgid "Dark theme starts"
+msgstr ""
+
+msgid "Changes are automatic"
+msgstr ""
+
+msgid "The current theme is updated as soon as you change either time."
+msgstr ""
+
+msgid "Manual changes are kept"
+msgstr ""
+
+msgid "If you switch the style manually, it stays until the next scheduled time."
+msgstr ""
+
+msgid "Legacy applications"
+msgstr ""
+
+msgid "Dark theme for GTK3 applications"
+msgstr ""
+
+msgid "Use Adwaita-dark for GTK3 applications while the dark style is active and restore the previous theme afterwards."
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Source code"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "This extension combines and modernizes the following projects."
+msgstr ""
